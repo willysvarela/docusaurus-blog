@@ -6,9 +6,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "willys.dev",
-  tagline: "Dinosaurs are cool",
-  url: "https://willys.dev",
+  title: "mente.cheia",
+  tagline: "Devocionais e Estudos Bíblicos",
+  url: "https://menteche.ia",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
