@@ -9,6 +9,8 @@ tags: ["fé", "firmeza", "meditação"]
 
 Colossenses 2 retrata Paulo exortando os colossenses acerca de costumes errados. Estes estavam vivendo em rituais e tradições que não mais eram convenientes, já que haviam recebido a Salvação. A salvação nos liberta das nossas amarras com o mundo, costumes, pensamentos, atitudes, e desejos. Somos mortos para o mundo, e vivos para uma nova vida, uma vida em Cristo.
 
+<!--truncate-->
+
 Se vivemos em Cristo, não vivemos mais de acordo com as leis desse mundo, o que significa que devemos nos desvincular de tudo aquilo que fazíamos antes, para entender COMO agir agora. É como apagar todos os dados da sua mente - viéses, achismos, conceitos -, para começar a ver o mundo de outra forma. Paulo, em Romanos 12:2, chama isso de "renovação da mente":
 
 > Não se amoldem aos padrões deste mundo, mas transformem-se pela renovação da sua mente, para que sejam capazes de experimentar e comprovar a boa, agradável e perfeita vontade de Deus. Romanos 12:2 NVI
