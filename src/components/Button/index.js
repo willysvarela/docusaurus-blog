@@ -6,7 +6,7 @@ function Button({ children, href, className, ...props }) {
   return (
     <Link
       href={href}
-      className={`px-5 py-3 rounded-lg bg-purple-900 no-underline hover:no-underline hover:bg-purple-700 text-white hover:text-white  ${className}`}
+      className={`px-5 py-3 rounded-lg bg-purple-900 no-underline hover:no-underline hover:bg-purple-700 text-white hover:text-white ppπ ${className}`}
       {...props}
     >
       {children}

@@ -65,9 +65,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "willys.dev",
+        title: "mente.cheia",
         logo: {
-          alt: "willys.dev",
+          alt: "mente.cheia",
           src: "img/logo.svg",
         },
         items: [
@@ -82,7 +82,7 @@ const config = {
       footer: {
         links: [
           {
-            title: "More",
+            title: "Mais",
             items: [
               {
                 label: "Blog",
@@ -95,7 +95,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Construído com Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
